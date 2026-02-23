@@ -1,11 +1,14 @@
-# Student Management System - Oracle SQL Project
+# Student Performance Analytics System Relational Database Design & Data Analysis using Oracle SQL
 
 ## Author
 Fatoumata Bamba KEITA
 
 ## Description
-This project is a relational database system built using Oracle XE.
-It manages students, courses, enrollments, and grades.
+ Project Overview
+
+Designed and implemented a relational database system using Oracle SQL to manage and analyze student academic performance.
+
+The system includes structured relational tables, constraints, indexing, analytical queries, views, and PL/SQL triggers to automate grading logic.
 
 ## Features
 - Relational schema with foreign keys
